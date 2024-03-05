@@ -6,6 +6,7 @@
   "scripts": {
     "test": "npm run test"
   },
+  "repository": "https://github.com/Pratikpr8/npm-package",
   "author": "pratikpr8",
   "license": "ISC",
   "dependencies": {
