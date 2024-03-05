@@ -1,0 +1,14 @@
+{
+  "name": "march5-test-hello-world-product-gang-sync",
+  "version": "1.0.0",
+  "description": "basic javascript library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "pratikpr8",
+  "license": "ISC",
+  "dependencies": {
+    "march5-test-hello-world-product-gang-sync": "^1.0.0"
+  }
+}
