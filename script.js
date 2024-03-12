@@ -1,3 +1,6 @@
-const hello = require("march5-test-hello-world-product-gang-sync");
+const toUpperCase = require("march12-test-hello-world-product-gang-sync");
 
-console.log(hello());
+const inputString = "hello npm";
+const result = toUpperCase(inputString);
+
+console.log(result);
