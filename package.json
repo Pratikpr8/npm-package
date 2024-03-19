@@ -12,9 +12,6 @@
   },
   "author": "pratikpr8",
   "license": "ISC",
-  "dependencies": {
-    "march12-test-hello-world-product-gang-sync": "^1.0.2"
-  },
   "devDependencies": {
     "jest": "^29.7.0"
   }
