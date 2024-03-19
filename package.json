@@ -1,6 +1,6 @@
 {
   "name": "march12-test-hello-world-product-gang-sync",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "basic javascript library",
   "main": "index.js",
   "scripts": {
